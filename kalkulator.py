@@ -1,4 +1,7 @@
 # kalkulator.py
+# Krzysztof Popiołek
+# Systemy operacyjne
+# kalkulator
 
 def dodawanie(x, y):
     return x + y
